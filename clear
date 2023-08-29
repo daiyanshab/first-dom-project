@@ -1,0 +1,63 @@
+[33mcommit 1def83a0737358355777ed65e197849c5f15886a[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: unknown <you@example.com>
+Date:   Tue Aug 29 15:01:37 2023 +0600
+
+    final update
+
+[33mcommit 9b478c1f552a654bfba7da4e87f2c45d9c064f2b[m[33m ([m[1;32mfeature1[m[33m)[m
+Merge: f8c7228 935cb63
+Author: unknown <you@example.com>
+Date:   Tue Aug 29 02:53:08 2023 +0600
+
+    final
+
+[33mcommit f8c722842b242a74aad4cfdcefab4e5c7f3e3142[m
+Author: unknown <you@example.com>
+Date:   Tue Aug 29 02:49:01 2023 +0600
+
+    date is changed
+
+[33mcommit 935cb632542631f4c2832be1d28cdeeecfdac5da[m
+Author: unknown <you@example.com>
+Date:   Tue Aug 29 02:44:07 2023 +0600
+
+    date change
+
+[33mcommit e3b8ff55fe981001b0ff518bbe52bc4dd622eedb[m
+Merge: 4859941 7cad3b9
+Author: Mahir Daiyan Chowdhury <141283057+daiyanshab@users.noreply.github.com>
+Date:   Tue Aug 29 02:32:17 2023 +0600
+
+    Merge pull request #1 from daiyanshab/feature1
+    
+    feature1
+
+[33mcommit 7cad3b9b126210d4e8e46464e98b19f1d7f52b90[m[33m ([m[1;31morigin/feature1[m[33m)[m
+Author: unknown <you@example.com>
+Date:   Tue Aug 29 02:16:25 2023 +0600
+
+    feature1
+
+[33mcommit 48599417c373e346ad979b4b48e67f816682d336[m
+Author: unknown <you@example.com>
+Date:   Tue Aug 29 01:58:27 2023 +0600
+
+    final change
+
+[33mcommit 1e4c9d5f177ffd628ce622f1648200847d814b47[m
+Author: unknown <you@example.com>
+Date:   Sun Aug 27 09:57:50 2023 +0600
+
+    switch
+
+[33mcommit 63bbb19b4896347a43a8e07a5f460978337d999e[m
+Author: unknown <you@example.com>
+Date:   Sun Aug 27 09:50:44 2023 +0600
+
+    first dom prject switch
+
+[33mcommit 3951400f2f11c238bb1833b693a2544900296e33[m
+Author: Mahir Daiyan Chowdhury <141283057+daiyanshab@users.noreply.github.com>
+Date:   Sun Aug 27 09:36:39 2023 +0600
+
+    Initial commit
